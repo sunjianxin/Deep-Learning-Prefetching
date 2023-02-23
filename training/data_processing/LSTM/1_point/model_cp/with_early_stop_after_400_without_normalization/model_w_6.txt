@@ -1,0 +1,1 @@
+early stop at: 2539; optimal epoch at: 2138
