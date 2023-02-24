@@ -1,3 +1,1 @@
-svm 用5万个点training
-lstm训练5个model 动态预测  每个文件3400个点 前3000用来training 后400生成test 轨道
 
