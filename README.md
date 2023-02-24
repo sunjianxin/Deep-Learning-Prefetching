@@ -3,6 +3,7 @@
 RmdnCache is a predictive deep neural network for microblock prefetching under multi-resolution large-scale volume visualization.
 ![results](https://github.com/sunjianxin/Deep-Learning-Prefetching/blob/main/teaser.jpg)
 ![results](https://github.com/sunjianxin/Deep-Learning-Prefetching/blob/main/teaser.png)
+The detailed results can be visited from the demo video on Youtube from [here](https://youtu.be/SBPq6zV1LUQ)
 
 # Experiment Setting
 
@@ -22,6 +23,3 @@ Use the "training" folder for training the RmdnCache network. RNN should be trai
 # Inference
 
 The input is the parameter of the POV of interest and the output is the predicted microblock indices for prefetching.
-
-# Demo
-The detailed results can be visited from the demo video on Youtube from [here](https://youtu.be/SBPq6zV1LUQ),
